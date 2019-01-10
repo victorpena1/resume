@@ -44,9 +44,9 @@ EXPERIENCE
 <p>•	Generated a full Geophysical Multi-Attributes analysis for the Barnett Shale at the Johnson County, TX. (Summer 2009) <br>
 •	Fully developed a pore pressure prediction algorithm with multiple subsurface datasets using MATLAB. (Summer 2008) <br>
 •	Evaluated several seismic processing deliverables in the marine, land, depth, and velocity departments. (Summer 2007) </p> <br>
-________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________
 EDUCATION
--------
+---------
 <b>TEXAS A&M UNIVERSITY, MAYS BUSINESS SCHOOL</b>	HOUSTON, TX <br>
 Master of Business Administration (GPA: 3.7)	2016 – 2018 <br>
 <b>UNIVERSITY OF OKLAHOMA, CONOCO PHILLIPS SCHOOL OF GEOLOGY AND GEOPHYSICS</b>	NORMAN, OK <br>
@@ -56,8 +56,8 @@ Travel Grand Award for the 2009 SEG/Chevron Student Leadership Symposium, SEG Sc
 <b>UNIVERSITY OF OKLAHOMA, CONOCO PHILLIPS SCHOOL OF GEOLOGY AND GEOPHYSICS</b>	 NORMAN, OK <br>
 Bachelor of Science in Exploration Geophysics, Minor: Geology	2004 – 2008   <br>
 Society of Exploration Geophysics (Vise-President) 07-08, Society of Exploration Geophysics (Secretary) 06-07 <br>
-________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________
 ADDITIONAL INFORMATION
----------
+----------------------
 <b>Languages:</b> English (Fluent), Spanish (Native), Portuguese (Conversational). <br>
 <b>Interests:</b> Entrepreneurship, innovation, sustainability, earth science, scuba diving & marine life, global travel (Over 70 countries), endurance sports (13 half marathons | 2 triathlons | 2 Tough Mudder).
