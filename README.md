@@ -14,12 +14,12 @@ PROJECTS
 ________________________________________________________________________________________________________________________________________
 EXPERIENCE
 ----------
-E-Cleaners Pro  HOUSTON, TX <br>
-Co-Founder (Director)	2016-Present <br>
-•	Created an innovating platform that connects clients with high-quality cleaners in the Houston area. <br>
+<b>E-Cleaners Pro</b>  HOUSTON, TX <br>
+<b>Co-Founder (Director)</b>	2016-Present <br>
+<p>•	Created an innovating platform that connects clients with high-quality cleaners in the Houston area. <br>
 •	Reduced operational errors by ~60% and increased revenues by 262% in the last 12 months. <br>
 •	Established 3 new partnerships and increased daily capacity by 400%. <br>
-•	I am currently overseeing the company’s operations and marketing strategy. <br>
+•	I am currently overseeing the company’s operations and marketing strategy. </p> <br>
 
 British Petroleum (BP)	HOUSTON, TX | PORT OF SPAIN, TRINIDAD AND TOBAGO <br>
 Exploration Geophysicist, (Basin Analysis, Western Hemisphere)	2013-2015 <br>
