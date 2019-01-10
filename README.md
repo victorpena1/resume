@@ -43,7 +43,7 @@ EXPERIENCE
 <b>Geophysics Intern (Reservoir Seismic Services, GeoMechanics DCS, WesternGeco) </b>	 Summer 2007-2008-2009  <br>
 <p>•	Generated a full Geophysical Multi-Attributes analysis for the Barnett Shale at the Johnson County, TX. (Summer 2009) <br>
 •	Fully developed a pore pressure prediction algorithm with multiple subsurface datasets using MATLAB. (Summer 2008) <br>
-•	Evaluated several seismic processing deliverables in the marine, land, depth, and velocity departments. (Summer 2007) </p> <br>
+•	Evaluated several seismic processing deliverables in the marine, land, depth, and velocity departments. (Summer 2007) </p>
 _______________________________________________________________________________________________________________________________________
 EDUCATION
 ---------
@@ -55,7 +55,7 @@ Society of Exploration Geophysics (President) 08-09, 1st Place Poster Contest 20
 Travel Grand Award for the 2009 SEG/Chevron Student Leadership Symposium, SEG Scholarship Award 2008 <br>
 <b>UNIVERSITY OF OKLAHOMA, CONOCO PHILLIPS SCHOOL OF GEOLOGY AND GEOPHYSICS</b>	 NORMAN, OK <br>
 Bachelor of Science in Exploration Geophysics, Minor: Geology	2004 – 2008   <br>
-Society of Exploration Geophysics (Vise-President) 07-08, Society of Exploration Geophysics (Secretary) 06-07 <br>
+Society of Exploration Geophysics (Vise-President) 07-08, Society of Exploration Geophysics (Secretary) 06-07  
 _______________________________________________________________________________________________________________________________________
 ADDITIONAL INFORMATION
 ----------------------
