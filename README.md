@@ -2,13 +2,13 @@ VICTOR PENA, M.Sc., MBA, Data Scientist
 ----------
 Houston, Texas ◦ 713.992.4874 ◦ Victor.d.pena.1@gmail.com ◦ <a href="https://www.github.com/victorpena1">github.com/victorpena1</a> ◦ <a href="https://www.Linkedin.com/in/victordpena">Linkedin.com/in/victordpena</a> 
 
-I am a Data Scientist with a background in the energy sector multi-disciplinary data analysis. I am passionate for data-driven decision making and enjoy implementing innovating solutions to business problems. Seeking exciting opportunities to leverage data.<br>
+<p>I am a Data Scientist with a background in the energy sector multi-disciplinary data analysis. I am passionate for data-driven decision making and enjoy implementing innovating solutions to business problems. Seeking exciting opportunities to leverage data.</p>
 SKILLS
 ------
-•	Python, Pandas, Numpy, Matplotlib, SQLite, MySQL, Tableau, Google Analytics, Google Studio 360, Linux/Ubuntu, MATLAB. <br>
+<p>•	Python, Pandas, Numpy, Matplotlib, SQLite, MySQL, Tableau, Google Analytics, Google Studio 360, Linux/Ubuntu, MATLAB. </p>
 PROJECTS
 --------
-•	Portfolio Optimization: Used Python to data mine 6000 NYSE stock prices from the Alpha Vantage API. Created a mini relational database using SQLite. Manipulated raw data to find 100 days average performance, volatility, betas, correlations and covariances. Normalized and identified the top performers with the lowest coefficient of variance and iterated for portfolio weight optimization. <br>
+<p>•	Portfolio Optimization: Used Python to data mine 6000 NYSE stock prices from the Alpha Vantage API. Created a mini relational database using SQLite. Manipulated raw data to find 100 days average performance, volatility, betas, correlations and covariances. Normalized and identified the top performers with the lowest coefficient of variance and iterated for portfolio weight optimization. </p>
 EXPERIENCE
 ----------
 <b>E-Cleaners Pro</b>  HOUSTON, TX <br>
