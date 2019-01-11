@@ -46,6 +46,7 @@ EXPERIENCE
 •	Fully developed a pore pressure prediction algorithm with multiple subsurface datasets using MATLAB. (Summer 2008) <br>
 •	Evaluated several seismic processing deliverables in the marine, land, depth, and velocity departments. (Summer 2007) </p>
 ___________________________________________________________________________________________________________________________________
+
 EDUCATION
 ---------
 <b>TEXAS A&M UNIVERSITY, MAYS BUSINESS SCHOOL</b>	HOUSTON, TX <br>
