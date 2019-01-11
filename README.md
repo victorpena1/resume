@@ -13,7 +13,7 @@ Houston, Texas ◦ 713.992.4874 ◦ Victor.d.pena.1@gmail.com ◦ <a href="https
 <h2>EXPERIENCE</h2>
 
 <b>E-Cleaners Pro</b>  HOUSTON, TX <br>
-<b>Co-Founder (Director)</b>	2016-Present <br>
+<b>Co-Founder (Director)</b>	2016-Present
 <p>•	Created an innovating platform that connects clients with high-quality cleaners in the Houston area. <br>
 •	Reduced operational errors by ~60% and increased revenues by 262% in the last 12 months. <br>
 •	Established 3 new partnerships and increased daily capacity by 400%. <br>
