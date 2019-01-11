@@ -12,6 +12,7 @@ PROJECTS
 --------
 •	Portfolio Optimization: Used Python to data mine 6000 NYSE stock prices from the Alpha Vantage API. Created a mini relational database using SQLite. Manipulated raw data to find 100 days average performance, volatility, betas, correlations and covariances. Normalized and identified the top performers with the lowest coefficient of variance and iterated for portfolio weight optimization. <br>
 ________________________________________________________________________________________________________________________________________
+
 EXPERIENCE
 ----------
 <b>E-Cleaners Pro</b>  HOUSTON, TX <br>
@@ -44,8 +45,7 @@ EXPERIENCE
 <p>•	Generated a full Geophysical Multi-Attributes analysis for the Barnett Shale at the Johnson County, TX. (Summer 2009) <br>
 •	Fully developed a pore pressure prediction algorithm with multiple subsurface datasets using MATLAB. (Summer 2008) <br>
 •	Evaluated several seismic processing deliverables in the marine, land, depth, and velocity departments. (Summer 2007) </p>
-_______________________________________________________________________________________________________________________________________
-
+___________________________________________________________________________________________________________________________________
 EDUCATION
 ---------
 <b>TEXAS A&M UNIVERSITY, MAYS BUSINESS SCHOOL</b>	HOUSTON, TX <br>
