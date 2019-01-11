@@ -1,16 +1,17 @@
-VICTOR PENA, M.Sc., MBA, Data Scientist
-----------
+<h1>VICTOR PENA, M.Sc., MBA, Data Scientist</h1>
+
 Houston, Texas ◦ 713.992.4874 ◦ Victor.d.pena.1@gmail.com ◦ <a href="https://www.github.com/victorpena1">github.com/victorpena1</a> ◦ <a href="https://www.Linkedin.com/in/victordpena">Linkedin.com/in/victordpena</a> 
 
 <p>I am a Data Scientist with a background in the energy sector multi-disciplinary data analysis. I am passionate for data-driven decision making and enjoy implementing innovating solutions to business problems. Seeking exciting opportunities to leverage data.</p>
-SKILLS
-------
+<h2>SKILLS</h2>
+
 <p>•	Python, Pandas, Numpy, Matplotlib, SQLite, MySQL, Tableau, Google Analytics, Google Studio 360, Linux/Ubuntu, MATLAB. </p>
-PROJECTS
---------
+
+<h2>PROJECTS</h2>
+
 <p>•	Portfolio Optimization: Used Python to data mine 6000 NYSE stock prices from the Alpha Vantage API. Created a mini relational database using SQLite. Manipulated raw data to find 100 days average performance, volatility, betas, correlations and covariances. Normalized and identified the top performers with the lowest coefficient of variance and iterated for portfolio weight optimization. </p>
-EXPERIENCE
-----------
+<h2>EXPERIENCE</h2>
+
 <b>E-Cleaners Pro</b>  HOUSTON, TX <br>
 <b>Co-Founder (Director)</b>	2016-Present <br>
 <p>•	Created an innovating platform that connects clients with high-quality cleaners in the Houston area. <br>
@@ -41,8 +42,9 @@ EXPERIENCE
 <p>•	Generated a full Geophysical Multi-Attributes analysis for the Barnett Shale at the Johnson County, TX. (Summer 2009) <br>
 •	Fully developed a pore pressure prediction algorithm with multiple subsurface datasets using MATLAB. (Summer 2008) <br>
 •	Evaluated several seismic processing deliverables in the marine, land, depth, and velocity departments. (Summer 2007)</p>
-EDUCATION
----------
+
+<h2>EDUCATION</h2>
+
 <b>TEXAS A&M UNIVERSITY, MAYS BUSINESS SCHOOL</b>	HOUSTON, TX <br>
 Master of Business Administration (GPA: 3.7)	2016 – 2018 <br>
 <b>UNIVERSITY OF OKLAHOMA, CONOCO PHILLIPS SCHOOL OF GEOLOGY AND GEOPHYSICS</b>	NORMAN, OK <br>
@@ -52,7 +54,8 @@ Travel Grand Award for the 2009 SEG/Chevron Student Leadership Symposium, SEG Sc
 <b>UNIVERSITY OF OKLAHOMA, CONOCO PHILLIPS SCHOOL OF GEOLOGY AND GEOPHYSICS</b>	 NORMAN, OK <br>
 Bachelor of Science in Exploration Geophysics, Minor: Geology	2004 – 2008   <br>
 Society of Exploration Geophysics (Vise-President) 07-08, Society of Exploration Geophysics (Secretary) 06-07  <br>
-ADDITIONAL INFORMATION
-----------------------
+
+<h2>ADDITIONAL INFORMATION</h2>
+
 <b>Languages:</b> English (Fluent), Spanish (Native), Portuguese (Conversational). <br>
 <b>Interests:</b> Entrepreneurship, innovation, sustainability, earth science, scuba diving & marine life, global travel (Over 70 countries), endurance sports (13 half marathons | 2 triathlons | 2 Tough Mudder).
