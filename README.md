@@ -2,7 +2,7 @@
 
 Houston, Texas ◦ 713.992.4874 ◦ Victor.d.pena.1@gmail.com ◦ <a href="https://www.github.com/victorpena1">github.com/victorpena1</a> ◦ <a href="https://www.Linkedin.com/in/victordpena">Linkedin.com/in/victordpena</a> 
 
-<p>I am a Data Scientist with a background in the energy sector multi-disciplinary data analysis. I am passionate for data-driven decision making and enjoy implementing innovating solutions to business problems. Seeking exciting opportunities to leverage data.</p>
+<p>I am a Data Scientist with a background in the energy sector multi-disciplinary data analysis. I am passionate about data-driven decision making and enjoy implementing innovating solutions to business problems. Seeking exciting opportunities to leverage data.</p>
 <h2>SKILLS</h2>
 
 <p>•	Python, Pandas, Numpy, Matplotlib, SQLite, MySQL, Tableau, Google Analytics, Google Studio 360, Linux/Ubuntu, MATLAB. </p>
